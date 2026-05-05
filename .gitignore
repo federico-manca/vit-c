@@ -1,0 +1,6 @@
+/models/data
+/models/vit_c_export
+/models/*.txt
+/models/*.pth
+/build
+/.Xil
